@@ -29,7 +29,7 @@ Project files are available at
 https://pypi.org/project/standardize-it
 
 Documentation is hosted at
-https://whege.github.io/standardize-it/
+https://standardize-it.readthedocs.io/en/latest
 
 Code
 ====
