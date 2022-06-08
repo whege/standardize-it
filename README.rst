@@ -4,15 +4,15 @@ standardize-it - robust string normalization
 |pypi| |support| |license|
 
 .. |pypi| image:: https://img.shields.io/pypi/v/standardize-it.svg?style=flat-square
-    :target: https://pypi.org/project/standardize-it
+    :target: https://pypi.org/project/python-standardize-it
     :alt: pypi version
 
 .. |support| image:: https://img.shields.io/pypi/pyversions/standardize-it.svg?style=flat-square
-    :target: https://pypi.org/project/standardize-it
+    :target: https://pypi.org/project/python-standardize-it
     :alt: supported Python version
 
 .. |license| image:: https://img.shields.io/pypi/l/standardize-it.svg?style=flat-square
-    :target: https://pypi.org/project/standardize-it
+    :target: https://pypi.org/project/python-standardize-it
     :alt: license
 
 standardize-it provides robust string normalization and standardization against known standards by utilizing NLP and cosine similarity.
@@ -21,7 +21,7 @@ Installation
 ============
 `standardize-it` can be installed from PyPI::
 
-    pip install standardize-it
+    pip install python-standardize-it
 
 Download
 ========
